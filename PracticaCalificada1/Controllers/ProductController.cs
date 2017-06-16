@@ -16,5 +16,10 @@ namespace PracticaCalificada1.Controllers
         {
             return View(_unit.Products.SearchByName("LL Crankarm"));
         }
+
+        public IActionResult List()
+        {
+            return View(_unit.Products.GetAll());
+        }
     }
 }
