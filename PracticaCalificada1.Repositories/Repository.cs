@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using Dapper.Contrib.Extensions;
 using System.Data.SqlClient;
-using System;
 
 namespace PracticaCalificada1.Repositories
 {

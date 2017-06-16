@@ -1,9 +1,6 @@
 ﻿using Dapper;
 using PracticaCalificada1.Models;
-using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Text;
 
 namespace PracticaCalificada1.Repositories.SalesDB.Dapper
 {
